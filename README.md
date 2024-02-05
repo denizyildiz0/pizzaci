@@ -1,5 +1,6 @@
-#PİZZA GUSTO
+###Supervisor:[@keyvanarasteh] (https://github.com/keyvanarasteh)
 
+#PİZZA GUSTO
 ## Projemin Tasarım Amacı:
 
 *Yaptığım pizza uygulamasının amacı diğer uygulamalara nazaran erişebilirliği daha basit bir şekilde yapabilmek amacıyla yazılmıştır.
